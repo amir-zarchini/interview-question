@@ -40,7 +40,7 @@ export default defineConfig({
       {
         text: "Hibernate",
         items: [
-          { text: "OOP", link: "/java-se/stream" },
+          { text: "hibernate", link: "/database/hibernate" },
           { text: "String", link: "/java-se/stream" },
         ],
       },
